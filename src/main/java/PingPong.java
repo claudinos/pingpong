@@ -41,6 +41,7 @@
 
 import java.util.ArrayList;
 import java.util.List;
+import java.applet.*;
 
 public class PingPong {
 
